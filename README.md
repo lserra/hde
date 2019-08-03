@@ -13,4 +13,5 @@ Enjoy it!
 
 - [Home](https://github.com/lserra/hde/wiki)
 - [Basic Concepts](https://github.com/lserra/hde/wiki/Basic-Concepts)
+- [Best Practices](https://github.com/lserra/hde/wiki/Best-Practices)
 - [Hive data in ORC format](https://github.com/lserra/hde/wiki/Hive-data-in-ORC-format)
