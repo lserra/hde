@@ -5,7 +5,7 @@ Apache Hive is data warehouse infrastructure built on top of Apache™ Hadoop® 
 
 Here you'll find out a few concepts, tips, and tricks about the Apache Hive.
 
-From a Data Engineer To a Data Engineer.
+From Data Engineer To Data Engineer.
 
 Enjoy it!
 
