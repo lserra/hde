@@ -15,4 +15,5 @@ Enjoy it!
 - [Basic concepts](https://github.com/lserra/hde/wiki/Basic-Concepts)
 - [Best practices](https://github.com/lserra/hde/wiki/Best-Practices)
 - [Hive data in ORC format](https://github.com/lserra/hde/wiki/Hive-data-in-ORC-format)
+- [HQL date time functions](https://github.com/lserra/hde/wiki/HQL-date-time-functions)
 - [Optimizing Hive](https://github.com/lserra/hde/wiki/Optimizing-Hive)
